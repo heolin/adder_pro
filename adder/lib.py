@@ -4,6 +4,7 @@ import math
 def add(x, y):
     if x == 1.0:
         return y + 1
+
     if y == 0.0:
         return x
 
