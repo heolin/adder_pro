@@ -1,5 +1,4 @@
-# adder_pro
-
+# adder_pro [![Build Status](https://travis-ci.org/heolin123/adder_pro.svg?branch=master)](https://travis-ci.org/heolin123/adder_pro)
 
 ## About
 
