@@ -14,10 +14,10 @@ If you want to donate to adder_pro authors please contact: heolin123@gmail.com
 
 ## Usage
 	For adding two integers do:
-	python adder_pro.py -a 10000 -b 10000
+	python adder -a 10000 -b 10000
 
 	For adding two floats do:
-	python adder_pro.py -a 10000.1 -b 10000.9 -f
+	python adder -a 10000.1 -b 10000.9 -f
 
 
 
